@@ -191,7 +191,7 @@ body.locked, .content-container, .self-wrapper, .article-title {
     color: white;
     font-size: .4em;
     line-height: 1.2;
-    max-width: 300px;
+    max-width: 200px;
     transition: .5s 1s;
     white-space: nowrap;
 }
