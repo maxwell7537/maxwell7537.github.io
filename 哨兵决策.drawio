@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="28.2.9">
   <diagram name="第 1 页" id="fTaFvrPgfVRA6R4pqwNz">
-    <mxGraphModel dx="1598" dy="1328" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="1429" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
             <mxPoint x="-300" y="-276.28999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J1UM3ZFJtKz1ykY50SJQ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGNkBsveqJIZSCQQv8ye-5" target="oGNkBsveqJIZSCQQv8ye-8">
+        <mxCell id="J1UM3ZFJtKz1ykY50SJQ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oGNkBsveqJIZSCQQv8ye-5" target="oGNkBsveqJIZSCQQv8ye-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-422" y="-76" as="sourcePoint" />
             <mxPoint x="-471" y="-76" as="targetPoint" />
@@ -78,8 +78,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J1UM3ZFJtKz1ykY50SJQ-3" value="判断各行为条件" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J1UM3ZFJtKz1ykY50SJQ-3" value="判断各行为条件" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-299" y="-159" width="281" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="nzYRsiPP75LuWBe1ESa6-2" value="追击" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-686" y="-250" width="72" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="nzYRsiPP75LuWBe1ESa6-3" value="撤退" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-815" y="-216" width="72" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="nzYRsiPP75LuWBe1ESa6-4" value="打小符" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-815" y="-323" width="72" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="nzYRsiPP75LuWBe1ESa6-5" value="打前哨" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-774" y="-106" width="72" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="nzYRsiPP75LuWBe1ESa6-6" value="打基地" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-815" y="-14" width="72" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="nzYRsiPP75LuWBe1ESa6-7" value="巡逻" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-673" y="-193" width="72" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="nzYRsiPP75LuWBe1ESa6-8" value="前压" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-815" y="-278" width="72" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
